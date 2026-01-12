@@ -59,6 +59,16 @@ Overall, this project demonstrates a **solid and structured approach to applied 
 
 ---
 
+## Key Findings & Conclusions
+- Data preprocessing and feature selection significantly influence model performance
+- Simple baseline models provide strong reference points for evaluation
+- More complex models can improve performance but require careful tuning
+- Model comparison is essential to avoid misleading conclusions based on a single algorithm
+
+Detailed analysis, metrics, and visualizations are provided in the notebook.
+
+---
+
 ## Repository Contents
 - `data_mining_classification_analysis.ipynb` — Main notebook containing the full analysis
 - `README.md` — Project documentation
